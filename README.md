@@ -36,3 +36,4 @@ except StopIteration:
     print("Generator exhausted!")
 
 Output
+https://github.com/dwaynewebb86/IS362-Generators-Iterables/blob/8226c00a86e7c2200f4acd15f9718792d9f307bc/w2-code-snippet.jpg
